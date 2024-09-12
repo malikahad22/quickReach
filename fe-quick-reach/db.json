@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Malik ",
+      "email": "ahad@gmail.com",
+      "password": "Abcdef@123"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ]
+}
